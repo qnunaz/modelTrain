@@ -95,8 +95,8 @@ AIモデルの学習プロセスから、学習済みモデルを用いたリア
 * Python 3.x
 * Pyserial
 * Matplotlib
-* Numpy`
-* Tensorflow/Keras
+* Numpy
+* TensorFlow/Keras
 * Scikit-learn/Joblib
 * Tkinter
 
