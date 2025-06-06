@@ -93,12 +93,12 @@ AIモデルの学習プロセスから、学習済みモデルを用いたリア
 ### 動作環境（リアルタイムアプリケーション用）
 
 * Python 3.x
-* `pyserial` (シリアル通信用)
-* `matplotlib` (グラフ描画用)
-* `numpy` (数値計算用)
-* `tensorflow`/`keras` (AIモデルの読み込みと推論用)
-* `scikit-learn`/`joblib` (スケーラーの読み込み用)
-* `tkinter` (GUI用、Python標準ライブラリ)
+* Pyserial
+* Matplotlib
+* Numpy`
+* Tensorflow/Keras
+* Scikit-learn/Joblib
+* Tkinter
 
 ---
 
